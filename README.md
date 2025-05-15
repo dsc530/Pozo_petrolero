@@ -45,4 +45,3 @@ A partir de parámetros recolectados en pozos petrolíferos de distintas regione
 ## 🚀 Cómo Clonar el Repositorio
 ```bash
 git clone https://github.com/dsc530/Pozo_petrolero.git
-cd oilygiant-well-recommendation
